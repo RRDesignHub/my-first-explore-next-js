@@ -7,31 +7,31 @@ export default function ServicesPage() {
       id: "web-development",
       title: "Web Development",
       description: "Build modern, scalable, and high-performance web applications.",
-      image: "/images/web-development.jpg",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvQ_A1YpPDcscDaiVTYKnCVn2foc3piDKWXg&s",
     },
     {
       id: "mobile-apps",
       title: "Mobile App Development",
       description: "Create cross-platform and native mobile applications.",
-      image: "/images/mobile-apps.jpg",
+      image: "https://riseuplabs.com/wp-content/uploads/2021/07/mobile-application-development-guidelines-riseuplabs.jpg",
     },
     {
       id: "ui-ux",
       title: "UI/UX Design",
       description: "Design visually stunning and user-friendly interfaces.",
-      image: "/images/ui-ux.jpg",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqak8ODA7SJv7hiRHv5dtzauFSK1AmGiYusQ&s",
     },
     {
       id: "seo",
       title: "SEO Optimization",
       description: "Improve your website’s ranking with expert SEO strategies.",
-      image: "/images/seo.jpg",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSO3m3e3LWQiakj1BAwGwlNSnsR70YPNOcQw&s",
     },
     {
       id: "digital-marketing",
       title: "Digital Marketing",
       description: "Boost your brand’s presence with online marketing campaigns.",
-      image: "/images/digital-marketing.jpg",
+      image: "https://www.creativeitinstitute.com/images/course/course_1662724358.jpg",
     },
   ];
   return (
